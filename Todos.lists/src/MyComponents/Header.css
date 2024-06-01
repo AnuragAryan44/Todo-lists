@@ -1,0 +1,18 @@
+
+.container-fluid{
+    background-color: rgb(225, 217, 234);
+    border-radius: 9px;
+    font-size: 1.2rem;
+    position: relative;
+   
+   
+  
+}
+.nav-link:hover{
+   
+    background-color:rgb(166, 127, 224) ;
+    cursor: pointer;
+    border-radius: 17px;
+    font-size: 1.1rem;
+    
+}
